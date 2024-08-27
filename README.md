@@ -62,8 +62,6 @@ The project relies on several key hyperparameters such as:
 
 Efforts were made to enhance result reproducibility by initializing the random seed and reloading saved models before each training session. This project visualizes the training progress and generated synthetic images resembling MNIST digits.
 
-![Generated Image](path_to_your_generated_image.png)
-
 ## Conclusion
 
 This project successfully implemented a Generative Adversarial Network (GAN) using PyTorch to generate lifelike images resembling handwritten digits from the MNIST dataset. Through meticulous experimentation and adjustments to the model's architecture and hyperparameters, the GAN was optimized for better performance. This project underscores the potential of GANs in generating synthetic data for various unsupervised learning tasks and highlights avenues for further exploration in artificial intelligence and machine learning techniques.
