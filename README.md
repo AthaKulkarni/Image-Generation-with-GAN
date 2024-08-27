@@ -61,6 +61,8 @@ The project relies on several key hyperparameters such as:
 ## Visualization
 
 Efforts were made to enhance result reproducibility by initializing the random seed and reloading saved models before each training session. This project visualizes the training progress and generated synthetic images resembling MNIST digits.
+![image](https://github.com/user-attachments/assets/560a48a5-e9ff-4eb0-9f3a-f257e9dcbbe9)
+
 
 ## Conclusion
 
